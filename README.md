@@ -1,4 +1,4 @@
-# Hi, I'm Jean-Marc 👋
+# Hello, I'm Jean-Marc 👋
 
 ## Junior Backend Developer (Python & Django)
 
