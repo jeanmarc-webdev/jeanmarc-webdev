@@ -51,4 +51,9 @@ Blog, Social Website, Online Shop, Bookstore, and other web applications built w
 
 Python Fundamentals → Data Projects → Django Applications → REST APIs → Dockerized Backend Systems → Real-Time Applications
 
-More projects and learning progression details coming soon.
+## Project Index
+
+For a complete overview of all projects, portfolios, and source code repositories:
+
+https://github.com/jeanmarc-webdev/index
+
